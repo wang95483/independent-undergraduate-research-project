@@ -1,3 +1,8 @@
+* Copyright (c) [2025] [Haoling Wang]
+* All Rights Reserved.
+* If you want to use these code, please contact: hmyhw8@nottingham.edu.cn (or the personal email, wang95483@gmail.com)
+
+
 *begin coding
 cd "/Users/wanghaoling/Desktop/mypaper/European_Commission/2st_revised"
 import excel "1524.xlsx", firstrow clear 
